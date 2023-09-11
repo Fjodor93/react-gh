@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "//fjodor93.github.io/react-gh/static/css/main.d8a770c7.css",
+    "main.js": "//fjodor93.github.io/react-gh/static/js/main.2bdc22fd.js",
+    "static/js/787.0e31295a.chunk.js": "//fjodor93.github.io/react-gh/static/js/787.0e31295a.chunk.js",
+    "static/media/megasunorange.png": "//fjodor93.github.io/react-gh/static/media/megasunorange.0fa327caa46ae3cf92a8.png",
+    "static/media/megasunpink.png": "//fjodor93.github.io/react-gh/static/media/megasunpink.327740660e7480545643.png",
+    "static/media/megasunyellow.png": "//fjodor93.github.io/react-gh/static/media/megasunyellow.8af5c6fc80a57e3df2b0.png",
+    "static/media/megasun.jpg": "//fjodor93.github.io/react-gh/static/media/megasun.e6eb1ec2b4f2507e4cc8.jpg",
+    "static/media/instagram-logo.png": "//fjodor93.github.io/react-gh/static/media/instagram-logo.ead1470f682fdd553f8a.png",
+    "static/media/sunbed.png": "//fjodor93.github.io/react-gh/static/media/sunbed.38b0993bc9652ba455f0.png",
+    "static/media/facebook-logo.png": "//fjodor93.github.io/react-gh/static/media/facebook-logo.3cb08c9d44e0707a25e4.png",
+    "index.html": "//fjodor93.github.io/react-gh/index.html",
+    "main.d8a770c7.css.map": "//fjodor93.github.io/react-gh/static/css/main.d8a770c7.css.map",
+    "main.2bdc22fd.js.map": "//fjodor93.github.io/react-gh/static/js/main.2bdc22fd.js.map",
+    "787.0e31295a.chunk.js.map": "//fjodor93.github.io/react-gh/static/js/787.0e31295a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8a770c7.css",
+    "static/js/main.2bdc22fd.js"
+  ]
+}
