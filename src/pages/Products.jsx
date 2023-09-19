@@ -1,5 +1,5 @@
 import './Content.css';
-import './Products.css';
+import '../Products.css';
 import React from 'react';
 function Products() {
     return (

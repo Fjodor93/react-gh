@@ -57,6 +57,7 @@
 .solariumContainerRight{
     width: auto;
     height: 100%;
+    padding-left: 10px;
     justify-content: left;
 }
 .solariumDetailContainer{

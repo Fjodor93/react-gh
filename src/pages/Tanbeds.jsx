@@ -29,7 +29,7 @@ function Tanbeds() {
             <div className='contentcontainer'> 
                 <div className='solariumDetailContainer'>
                     <div className='solariumContainerLeft'>
-                        <Link to="/solarium" className='tillbaka'>
+                        <Link to="/react-gh/solarium/" className='tillbaka'>
                             <li>Tillbaka</li>
                         </Link>   
                         <div className='solariumHeader'>

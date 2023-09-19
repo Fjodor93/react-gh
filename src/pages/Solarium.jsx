@@ -24,7 +24,7 @@ function getSolarium (i){
         const picture = solariumData[i].Picture.slice();
 
         return(
-            <Link to={"/solarium/baddar/" + solariumData[i].Key} className='solariumContainer' style={{ textDecoration: 'none' }}>
+            <Link to={"baddar/" + solariumData[i].Key} className='solariumContainer' style={{ textDecoration: 'none' }}>
                 <div className='solariumContainerLeft'>
                     <div className='solariumHeader'>
                         <h3>{solariumData[i].Name}</h3>

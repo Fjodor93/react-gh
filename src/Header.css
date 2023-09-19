@@ -17,6 +17,7 @@
     display: flex;
     justify-content: center;
     height: 60px;
+    margin-right: 25px;
     list-style: none;
     list-style-type: none;
 }

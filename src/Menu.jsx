@@ -6,16 +6,16 @@ function Menu(){
     
         <div id="menuwrapper"> 
     
-                    <Link to="/" style={{ textDecoration: 'none' }}>
+                    <Link to="/react-gh" style={{ textDecoration: 'none' }}>
                         <h3 className='menuitemstyle'>Hem</h3>
                     </Link> 
-                    <Link to="/solarium" style={{ textDecoration: 'none' }}>
+                    <Link to="solarium" style={{ textDecoration: 'none' }}>
                         <h3 className='menuitemstyle'>Solariebäddar</h3>
                     </Link>
-                    <Link to="/produkter" style={{ textDecoration: 'none' }}>
+                    <Link to="produkter" style={{ textDecoration: 'none' }}>
                         <h3 className='menuitemstyle'>Sololjor</h3>
                     </Link>
-                    <Link to="/contacts" style={{ textDecoration: 'none' }}>
+                    <Link to="contacts" style={{ textDecoration: 'none' }}>
                         <h3 className='menuitemstyle'>Om oss</h3>
                     </Link>
             </div>
