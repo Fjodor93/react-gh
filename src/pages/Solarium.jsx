@@ -1,13 +1,14 @@
 import '../Solarium.css';
-import '../pages/Content.css';
+import '../Content.css';
 import React from 'react';
 import solariumData from '../data.json'
 import { Link } from 'react-router-dom';
-
+import { Helmet } from 'react-helmet';
 function Solarium(){
     return(
         <>
         <div className='contentcontainer'>
+        <Helmet><title>Tanbeds</title></Helmet>
             <div className='contentGrid'>
                     {getSolarium(0)}
                     {getSolarium(1)}

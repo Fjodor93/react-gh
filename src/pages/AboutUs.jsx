@@ -1,9 +1,11 @@
-import './Content.css';
+import '../Content.css';
 import '../AboutUs.css';
+import { Helmet } from 'react-helmet';
 
 function AboutUs() {
     return(
         <div className='contentcontainer'>
+            <Helmet><title>About Us</title></Helmet>
             <div className='aboutUsContainer'>
             <h1>OM OSS</h1>
             <h4>Vi är ett lokalt företag som driver solarium i Norrland. Vårat huvudfokus är tillgänglighet och hälsa. Genom generösa </h4>

@@ -1,8 +1,9 @@
 import '../Solarium.css';
-import './Content.css';
+import '../Content.css';
 import React, { useState } from 'react';
 import data from '../data.json';
 import { Link } from 'react-router-dom';
+import { Helmet } from 'react-helmet';
 
 const PricePerMin = (price) => {
     const [myRange, setRange] = useState(10);
@@ -27,6 +28,7 @@ function Tanbeds() {
         return (
 
             <div className='contentcontainer'> 
+                <Helmet><title>Tanbeds - Details</title></Helmet>
                 <div className='solariumDetailContainer'>
                     <div className='solariumContainerLeft'>
                         <Link to="/react-gh/solarium/" className='tillbaka'>
