@@ -1,4 +1,3 @@
-import ReactDOM from "react-dom";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Layout from "./Layout";
 import StartContent from "./pages/StartContent";
@@ -14,7 +13,7 @@ function App() {
   return (
       <BrowserRouter>
         <Routes>
-        <Route path="/react-gh/" element={<Layout />}>
+        <Route path="/react-gh/" element={<Layout/>}>
           <Route index element={<StartContent/>} />
           <Route path="/react-gh/solarium" element={<Solarium/>} />
           <Route path="/react-gh/produkter" element={<Products/>} />
@@ -24,8 +23,6 @@ function App() {
         </Route>
         </Routes>
       </BrowserRouter>
-
   ); 
 }
-ReactDOM.render(<App/>, document.getElementById("root"));
 export default App;
