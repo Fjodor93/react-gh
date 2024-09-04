@@ -1,4 +1,4 @@
-import './Content.css'
+import './Style/Content.css'
 
 function Content(){
     return(

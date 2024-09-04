@@ -68,7 +68,7 @@
 }
 .solariumPicture{
     width: 60%;
-    margin: 15px;
+    margin: 5px;
     padding-top: 10px;
     overflow: hidden;
 }
@@ -80,7 +80,7 @@
     border-radius: 5px;
     padding-left: 20px;
     padding-right: 20px;
-    margin-left: 25px;
+    margin-left: 5px;
 }
 
 .solariumPictureDetails{
@@ -91,9 +91,10 @@
 }
 .priceBarContainer {
     justify-content: left;
-    width: 40%;
+    width: auto;
     margin-top: 20px;
     margin-left: 20px;
+    margin-right: 10px;
     margin-bottom: 20px;
     text-align: center;
     z-index: 2;

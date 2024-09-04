@@ -1,4 +1,4 @@
-import '../Content.css';
+import '../Style/Content.css';
 import Contentmiddle from '../contentmiddle';
 import Contenttop from '../contenttop';
 import Contentbottom from '../contentbottom';

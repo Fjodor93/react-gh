@@ -1,5 +1,5 @@
-import '../Solarium.css';
-import '../Content.css';
+import '../Style/Solarium.css';
+import '../Style/Content.css';
 import React, { useState } from 'react';
 import data from '../data.json';
 import { Link } from 'react-router-dom';

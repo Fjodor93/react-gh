@@ -7,7 +7,7 @@ import Solarium from "./pages/Solarium";
 import Tanbed from "./pages/Tanbeds";
 import Contacts from "./Contacts";
 import AboutUs from "./pages/AboutUs";
-import './App.css';
+import './Style/App.css';
 
 function App() {
   return (

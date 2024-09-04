@@ -1,5 +1,5 @@
-import '../Content.css';
-import '../AboutUs.css';
+import '../Style/Content.css';
+import '../Style/AboutUs.css';
 import { Helmet } from 'react-helmet';
 
 function AboutUs() {

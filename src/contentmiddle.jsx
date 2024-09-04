@@ -1,4 +1,4 @@
-import './contentmiddle.css';
+import './Style/contentmiddle.css';
 import sunbed from './assets/sunbed.png';
 import sunoil from './assets/sunoil.png';
 import { Link } from 'react-router-dom';

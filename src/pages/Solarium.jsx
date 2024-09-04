@@ -1,5 +1,5 @@
-import '../Solarium.css';
-import '../Content.css';
+import '../Style/Solarium.css';
+import '../Style/Content.css';
 import React from 'react';
 import solariumData from '../data.json'
 import { Link } from 'react-router-dom';
