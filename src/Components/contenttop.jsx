@@ -1,4 +1,4 @@
-import './Style/contenttop.css';
+import '../Style/contenttop.css';
 
 function Contenttop(){
     return(

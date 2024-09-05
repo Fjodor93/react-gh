@@ -1,6 +1,6 @@
-import './Style/Footer.css';
-import facelogo from './assets/facebook-logo.png';
-import instalogo from './assets/instagram-logo.png';
+import '../Style/Footer.css';
+import facelogo from '../assets/facebook-logo.png';
+import instalogo from '../assets/instagram-logo.png';
 
 function Footer(){
     return(

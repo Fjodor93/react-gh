@@ -1,7 +1,7 @@
 import '../Style/Content.css';
-import Contentmiddle from '../contentmiddle';
-import Contenttop from '../contenttop';
-import Contentbottom from '../contentbottom';
+import Contentmiddle from '../Components/contentmiddle';
+import Contenttop from '../Components/contenttop';
+import Contentbottom from '../Components/contentbottom';
 import { Helmet } from 'react-helmet';
 function StartContent(){
 

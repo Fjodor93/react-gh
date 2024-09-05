@@ -1,5 +1,5 @@
-import './Style/contentbottom.css';
-import './Style/contentmiddle.css';
+import '../Style/contentbottom.css';
+import '../Style/contentmiddle.css';
 
 function Contentbottom(){
     const map = <iframe title='Hitta hit!' size="auto" id="googlemap" src="https://maps.google.com/maps?q=hamrinsv%C3%A4gen%202,%20ume%C3%A5&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" width="1080"  marginheight="0" marginwidth="0"></iframe>

@@ -1,13 +1,13 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Layout from "./Layout";
-import StartContent from "./pages/StartContent";
+import StartContent from "../pages/StartContent";
 import React from "react";
-import Products from "./pages/Products";
-import Solarium from "./pages/Solarium";
-import Tanbed from "./pages/Tanbeds";
+import Products from "../pages/Products";
+import Solarium from "../pages/Solarium";
+import Tanbed from "../pages/Tanbeds";
 import Contacts from "./Contacts";
-import AboutUs from "./pages/AboutUs";
-import './Style/App.css';
+import AboutUs from "../pages/AboutUs";
+import '../Style/App.css';
 
 function App() {
   return (

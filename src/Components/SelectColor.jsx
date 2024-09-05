@@ -1,4 +1,4 @@
-import './Style/SelectColor.css';
+import '../Style/SelectColor.css';
 import './Header';
 import './Footer';
 
@@ -21,10 +21,3 @@ function SelectColor(){
 }
 
 export default SelectColor;
-/*
-<div className='innercolorcontainer' id='colorwhite' onClick={changeColor("white")}></div>
-<div className='innercolorcontainer' id='coloroffwhite' onClick={changeColor("#F8F8FF")}></div>
-<div className='innercolorcontainer' id='coloraquamarine' onClick={changeColor("#7FFFD4")}></div>
-<div className='innercolorcontainer' id='coloremerald' onClick={changeColor("#50C878")}></div>
-<div className='innercolorcontainer' id='colorcreme' onClick={changeColor("#FFFFCC")}></div>
-*/

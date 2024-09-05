@@ -1,4 +1,4 @@
-import './Style/Menu.css';
+import '../Style/Menu.css';
 import React from 'react';
 import { Link } from "react-router-dom";
 function Menu(){
@@ -6,16 +6,16 @@ function Menu(){
     
         <div id="menuwrapper"> 
     
-                    <Link to="/" style={{ textDecoration: 'none' }}>
+                    <Link to="/" style={{ color: 'inherit', textDecoration: 'none' }}>
                         <h3 className='menuitemstyle'>Hem</h3>
                     </Link> 
-                    <Link to="solarium" style={{ textDecoration: 'none' }}>
+                    <Link to="solarium" style={{color: 'inherit', textDecoration: 'none' }}>
                         <h3 className='menuitemstyle'>Solariebäddar</h3>
                     </Link>
-                    <Link to="produkter" style={{ textDecoration: 'none' }}>
+                    <Link to="produkter" style={{color: 'inherit', textDecoration: 'none' }}>
                         <h3 className='menuitemstyle'>Sololjor</h3>
                     </Link>
-                    <Link to="contacts" style={{ textDecoration: 'none' }}>
+                    <Link to="contacts" style={{color: 'inherit', textDecoration: 'none' }}>
                         <h3 className='menuitemstyle'>Om oss</h3>
                     </Link>
             </div>

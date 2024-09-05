@@ -1,7 +1,7 @@
 import '../Style/Solarium.css';
 import '../Style/Content.css';
 import React from 'react';
-import solariumData from '../data.json'
+import solariumData from '../assets/data.json'
 import { Link } from 'react-router-dom';
 import { Helmet } from 'react-helmet';
 function Solarium(){
@@ -28,7 +28,7 @@ function getSolarium (i){
             <Link to={"baddar/" + solariumData[i].Key} className='solariumContainer' style={{ textDecoration: 'none' }}>
                 <div className='solariumContainerLeft'>
                     <div className='solariumHeader'>
-                        <h3>{solariumData[i].Name}</h3>
+                        <h2>{solariumData[i].Name}</h2>
                     </div>
                     <div className='solariumInfo'>
                         <h4>{solariumData[i].Description}

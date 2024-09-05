@@ -1,7 +1,7 @@
 import '../Style/Solarium.css';
 import '../Style/Content.css';
 import React, { useState } from 'react';
-import data from '../data.json';
+import data from '../assets/data.json';
 import { Link } from 'react-router-dom';
 import { Helmet } from 'react-helmet';
 
@@ -35,7 +35,7 @@ function Tanbeds() {
                             <li>Tillbaka</li>
                         </Link>   
                         <div className='solariumHeader'>
-                            <h3>{product.Name}</h3>
+                            <h2>{product.Name}</h2>
                             
                         </div>
                         <div>

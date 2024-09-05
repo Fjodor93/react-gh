@@ -1,4 +1,4 @@
-import './Style/MenuButton.css';
+import '../Style/MenuButton.css';
 import './Menu';
 
 function MenuButton(){
