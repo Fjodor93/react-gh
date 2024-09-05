@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-gh/static/css/main.6bdcf612.css",
-    "main.js": "/react-gh/static/js/main.afb2fe9d.js",
+    "main.css": "/react-gh/static/css/main.dc779552.css",
+    "main.js": "/react-gh/static/js/main.703bb964.js",
     "static/js/453.290d0904.chunk.js": "/react-gh/static/js/453.290d0904.chunk.js",
     "static/media/megasunorange.png": "/react-gh/static/media/megasunorange.0fa327caa46ae3cf92a8.png",
     "static/media/megasunpink.png": "/react-gh/static/media/megasunpink.327740660e7480545643.png",
@@ -10,13 +10,14 @@
     "static/media/instagram-logo.png": "/react-gh/static/media/instagram-logo.ead1470f682fdd553f8a.png",
     "static/media/sunbed.png": "/react-gh/static/media/sunbed.38b0993bc9652ba455f0.png",
     "static/media/facebook-logo.png": "/react-gh/static/media/facebook-logo.3cb08c9d44e0707a25e4.png",
+    "static/media/logo.svg": "/react-gh/static/media/logo.6ce24c58023cc2f8fd88.svg",
     "index.html": "/react-gh/index.html",
-    "main.6bdcf612.css.map": "/react-gh/static/css/main.6bdcf612.css.map",
-    "main.afb2fe9d.js.map": "/react-gh/static/js/main.afb2fe9d.js.map",
+    "main.dc779552.css.map": "/react-gh/static/css/main.dc779552.css.map",
+    "main.703bb964.js.map": "/react-gh/static/js/main.703bb964.js.map",
     "453.290d0904.chunk.js.map": "/react-gh/static/js/453.290d0904.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6bdcf612.css",
-    "static/js/main.afb2fe9d.js"
+    "static/css/main.dc779552.css",
+    "static/js/main.703bb964.js"
   ]
 }
