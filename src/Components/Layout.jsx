@@ -9,7 +9,9 @@ import { Helmet } from "react-helmet";
 const Layout = () => {
   return (
     <>
-    <Helmet><author>Fjodor Joss, fjodor_joss@hotmail.com</author></Helmet>
+      <Helmet>
+        <meta name="author" content="Fjodor Joss, fjodor_joss@hotmail.com"/>
+      </Helmet>
       <Header/>
       <Banner/>
       <Outlet />
