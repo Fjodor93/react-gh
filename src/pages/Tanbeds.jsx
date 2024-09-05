@@ -31,7 +31,7 @@ function Tanbeds() {
                 <Helmet><title>Tanbeds - Details</title></Helmet>
                 <div className='solariumDetailContainer'>
                     <div className='solariumContainerLeft'>
-                        <Link to="/react-gh/solarium/" className='tillbaka'>
+                        <Link to="/solarium/" className='tillbaka'>
                             <li>Tillbaka</li>
                         </Link>   
                         <div className='solariumHeader'>

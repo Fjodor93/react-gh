@@ -6,7 +6,7 @@ function Menu(){
     
         <div id="menuwrapper"> 
     
-                    <Link to="/react-gh" style={{ textDecoration: 'none' }}>
+                    <Link to="/" style={{ textDecoration: 'none' }}>
                         <h3 className='menuitemstyle'>Hem</h3>
                     </Link> 
                     <Link to="solarium" style={{ textDecoration: 'none' }}>

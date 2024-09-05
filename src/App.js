@@ -11,15 +11,15 @@ import './Style/App.css';
 
 function App() {
   return (
-      <BrowserRouter>
+      <BrowserRouter basename="/react-gh">
         <Routes>
-        <Route path="/react-gh/" element={<Layout/>}>
+        <Route path="/" element={<Layout/>}>
           <Route index element={<StartContent/>} />
-          <Route path="/react-gh/solarium" element={<Solarium/>} />
-          <Route path="/react-gh/produkter" element={<Products/>} />
-          <Route path="/react-gh/kontakt" element={<Contacts />} />
-          <Route path="/react-gh/solarium/baddar/*" element={<Tanbed />} />
-          <Route path="/react-gh/contacts" element={<AboutUs />} />
+          <Route path="/solarium" element={<Solarium/>} />
+          <Route path="/produkter" element={<Products/>} />
+          <Route path="/kontakt" element={<Contacts />} />
+          <Route path="/solarium/baddar/*" element={<Tanbed />} />
+          <Route path="/contacts" element={<AboutUs />} />
         </Route>
         </Routes>
       </BrowserRouter>

@@ -11,7 +11,7 @@ function Header(){
             <SelectColor/>
             <MenuButton/>
             <li style={{listStyle:'none'}}>
-            <Link to="/react-gh" className='logo' style={{ textDecoration: 'none'}}>
+            <Link to="/" className='logo' style={{ textDecoration: 'none'}}>
                 <img src={logo} alt="SunTan"/>
             </Link>
             </li>
